@@ -1,7 +1,5 @@
 # EngageFlow CRM
 
-## About Us
-
 EngageFlow CRM revolutionizes how businesses manage customer relationships. Our platform empowers organizations to streamline operations, enhance customer interactions, and drive growth. With a user-centric design and powerful features, EngageFlow CRM adapts to diverse business needs.
 
 ## Why Choose EngageFlow CRM?
