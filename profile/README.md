@@ -1,8 +1,8 @@
-# EngageFlow CRM
+# ClientSync CRM
 
-EngageFlow CRM revolutionizes how businesses manage customer relationships. Our platform empowers organizations to streamline operations, enhance customer interactions, and drive growth. With a user-centric design and powerful features, EngageFlow CRM adapts to diverse business needs.
+ClientSync CRM revolutionizes how businesses manage customer relationships. Our platform empowers organizations to streamline operations, enhance customer interactions, and drive growth. With a user-centric design and powerful features, ClientSync CRM adapts to diverse business needs.
 
-## Why Choose EngageFlow CRM?
+## Why Choose ClientSync CRM?
 
 - **User-Friendly Interface:** Intuitive design ensures easy adoption and minimal training.
 - **Scalability:** Grow effortlessly with adaptable features tailored to your business.
