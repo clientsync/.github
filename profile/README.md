@@ -1,3 +1,5 @@
+![logo image](/assets/logo.png)
+
 # ClientSync CRM
 
 ClientSync CRM revolutionizes how businesses manage customer relationships. Our platform empowers organizations to streamline operations, enhance customer interactions, and drive growth. With a user-centric design and powerful features, ClientSync CRM adapts to diverse business needs.
